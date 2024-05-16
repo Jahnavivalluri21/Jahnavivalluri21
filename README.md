@@ -1,4 +1,4 @@
-mport time
+import time
 
 print("please insert your card")
 
